@@ -1,0 +1,63 @@
+about:
+  description: Official Haskell IDE support via the language server protocol (LSP)
+  license: Apache-2.0
+  homepage: 
+  head: d3464b6
+  archived: false
+  latestVersion: 2.14.0.0
+  collectedAt: 2026-08-30T05:53:28Z
+timeline:
+  created: 2020-01-25
+  lastCommit: 2026-08-27
+  lastRelease: 2026-04-27
+popularity:
+  star: 2954
+  watcher: 49
+  fork: 454
+  release: 44
+  contributor: 319
+  pullRequest: 403
+  issue: 2447
+language:
+  Haskell: 3334282
+  JavaScript: 106101
+  TypeScript: 42906
+  Shell: 24938
+  Nix: 14466
+  HTML: 7818
+  Makefile: 6741
+  Python: 3148
+totalLine: 3540400
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 11
+    openPR: 8
+    closedIssue: 3
+    openIssue: 10
+    commit: 28
+  last90d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 53
+    openPR: 21
+    closedIssue: 11
+    openIssue: 24
+    commit: 80
+  last180d:
+    since: 2026-03-03
+    release: 1
+    mergedPR: 79
+    openPR: 29
+    closedIssue: 29
+    openIssue: 40
+    commit: 115
+  last360d:
+    since: 2025-09-04
+    release: 3
+    mergedPR: 140
+    openPR: 31
+    closedIssue: 74
+    openIssue: 58
+    commit: 180
