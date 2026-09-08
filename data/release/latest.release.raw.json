@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7384824,
       "digest": "sha256:a6ecf9eeac802dfa358f151d4309803ca082671ed18195d1db0d60771a2159e2",
-      "download_count": 47,
+      "download_count": 48,
       "created_at": "2026-08-31T23:27:30Z",
       "updated_at": "2026-08-31T23:27:31Z",
       "browser_download_url": "https://github.com/haskell/haskell-language-server/releases/download/2.15.0.0/haskell-language-server-2.15.0.0-src.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 267686008,
       "digest": "sha256:a0ee8deb7d3c7ac7a215b205caafbf7accb69e5379a69142e6ef3875477a7ec9",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-08-31T23:27:30Z",
       "updated_at": "2026-08-31T23:28:00Z",
       "browser_download_url": "https://github.com/haskell/haskell-language-server/releases/download/2.15.0.0/haskell-language-server-2.15.0.0-x86_64-linux-unknown.tar.xz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 426118516,
       "digest": "sha256:dbd244dd6860e821c1696b6687d9fd89410d5dbc5e3a350bc76bfcc32c1f3c90",
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2026-08-31T23:27:30Z",
       "updated_at": "2026-08-31T23:28:06Z",
       "browser_download_url": "https://github.com/haskell/haskell-language-server/releases/download/2.15.0.0/haskell-language-server-2.15.0.0-x86_64-mingw64.zip"
