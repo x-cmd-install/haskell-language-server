@@ -7,7 +7,7 @@ about:
   latestVersion: "2.15.0.0"
   latestRelease: "2.15.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:35:30Z
+  collectedAt: 2026-09-10T23:15:08Z
 timeline:
   created: 2020-01-25
   lastCommit: 2026-09-09
@@ -90,7 +90,7 @@ total:
   commit: 4011
 ---
 path: /home/runner/.x-repo/github.com/haskell/haskell-language-server
-collectedAt: 2026-09-10T20:35:36Z
+collectedAt: 2026-09-10T23:15:17Z
 loc:
   Haskell:
     code: 63099
