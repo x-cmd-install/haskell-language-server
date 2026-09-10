@@ -1,0 +1,172 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: haskell-language-server
+  binname: haskell-language-server
+  visiblename: haskell-language-server
+  version: 2.14.0.0
+  origversion: 2.14.0.0-r0
+  status: outdated
+  summary: Official Haskell Language Server implementation
+  maintainers:
+    - yyp@disroot.org
+  licenses:
+    - Apache-2.0
+- repo: chocolatey
+  binname: haskell-language-server
+  visiblename: Haskell Language Server
+  version: 1.5.1
+  origversion: null
+  status: outdated
+  summary: Successor of ghcide and haskell-ide-engine. One IDE to rule them all
+- repo: homebrew
+  srcname: haskell-language-server
+  visiblename: haskell-language-server
+  version: 2.15.0.0
+  origversion: null
+  status: newest
+  summary: Integration point for ghcide and haskell-ide-engine. One IDE to rule them all
+- repo: homebrew
+  srcname: haskell-language-server
+  visiblename: haskell-language-server
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Integration point for ghcide and haskell-ide-engine. One IDE to rule them all
+- repo: macports
+  srcname: devel/haskell-language-server
+  binname: haskell-language-server
+  visiblename: haskell-language-server
+  version: 2.14.0.0
+  origversion: null
+  status: outdated
+  summary: Official haskell ide support via language server (LSP).
+  maintainers:
+    - nomaintainer@macports.org
+  licenses:
+    - GPL-3
+  categories:
+    - devel
+- repo: nix_stable_24_05
+  srcname: haskell-language-server
+  visiblename: haskell-language-server
+  version: 2.8.0.0
+  origversion: null
+  status: outdated
+  summary: LSP server for GHC
+  maintainers:
+    - mail@maralorn.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: haskell-language-server
+  visiblename: haskell-language-server
+  version: 2.9.0.0
+  origversion: null
+  status: outdated
+  summary: LSP server for GHC
+  maintainers:
+    - mail@maralorn.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: haskell-language-server
+  visiblename: haskell-language-server
+  version: 2.10.0.0
+  origversion: null
+  status: outdated
+  summary: LSP server for GHC
+  maintainers:
+    - mail@maralorn.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: haskell-language-server
+  visiblename: haskell-language-server
+  version: 2.12.0.0
+  origversion: null
+  status: outdated
+  summary: LSP server for GHC
+  maintainers:
+    - mail@maralorn.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: haskell-language-server
+  visiblename: haskell-language-server
+  version: 2.13.0.0
+  origversion: null
+  status: outdated
+  summary: LSP server for GHC
+  maintainers:
+    - mail@maralorn.de
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: haskell-language-server
+  visiblename: haskell-language-server
+  version: 2.13.0.0
+  origversion: null
+  status: outdated
+  summary: LSP server for GHC
+  maintainers:
+    - mail@maralorn.de
+  licenses:
+    - Apache-2.0
+- repo: pkgsrc_2026_1
+  srcname: devel/haskell-language-server
+  binname: haskell-language-server
+  visiblename: devel/haskell-language-server
+  version: 2.9.0.0
+  origversion: 2.9.0.0nb6
+  status: outdated
+  summary: LSP server for GHC
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_2026_2
+  srcname: devel/haskell-language-server
+  binname: haskell-language-server
+  visiblename: devel/haskell-language-server
+  version: 2.9.0.0
+  origversion: 2.9.0.0nb6
+  status: outdated
+  summary: LSP server for GHC
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_current
+  srcname: devel/haskell-language-server
+  binname: haskell-language-server
+  visiblename: devel/haskell-language-server
+  version: 2.9.0.0
+  origversion: 2.9.0.0nb6
+  status: outdated
+  summary: LSP server for GHC
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: scoop
+  subrepo: main
+  binname: haskell-language-server
+  visiblename: haskell-language-server
+  version: 2.15.0.0
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: haskell-language-server
+  binname: haskell-language-server
+  visiblename: haskell-language-server
+  version: 2.11.0.0
+  origversion: 2.11.0.0_1
+  status: outdated
+  summary: Integration of ghcide and haskell-ide-engine
+  maintainers:
+    - waynevanson@gmail.com
+  licenses:
+    - Apache-2.0
