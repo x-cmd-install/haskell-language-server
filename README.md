@@ -14,11 +14,11 @@ x install haskell-language-server
 
 ## Code insight
 
-Total: **77,790** lines of code across **1541** files in the top 5 languages.
+Total: **77,778** lines of code across **1541** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Haskell | 63,099 | 13,432 | 9,801 | 1442 |
+| Haskell | 63,087 | 13,471 | 9,800 | 1442 |
 | Json | 6,206 | 0 | 0 | 14 |
 | Cabal | 3,432 | 303 | 487 | 75 |
 | JavaScript | 1,781 | 52 | 0 | 4 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.15.0.0` (2026-09-03)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-12
 - **Assets in release**: 21
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 2109 · **Open PRs**: 71 · **Closed issues**: 1971 · **Open issues**: 493 · **Commits**: 4011
+- **Releases**: 45 · **Merged PRs**: 2110 · **Open PRs**: 70 · **Closed issues**: 1971 · **Open issues**: 493 · **Commits**: 4012
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 1 | 12 | 4 | 7 | 19 | 26 |
-| last60d | 2026-07-14 | 1 | 25 | 10 | 7 | 25 | 61 |
-| 90d | 2026-06-14 | 1 | 45 | 12 | 14 | 31 | 79 |
-| last180d | 2026-03-16 | 2 | 81 | 26 | 35 | 50 | 127 |
-| 360d | 2025-09-17 | 4 | 143 | 28 | 80 | 67 | 191 |
-| last720d | 2024-09-22 | 6 | 279 | 43 | 170 | 112 | 345 |
+| 30d | 2026-08-14 | 1 | 11 | 3 | 7 | 18 | 26 |
+| last60d | 2026-07-15 | 1 | 26 | 9 | 7 | 25 | 55 |
+| 90d | 2026-06-15 | 1 | 45 | 11 | 13 | 31 | 71 |
+| last180d | 2026-03-17 | 2 | 82 | 25 | 35 | 50 | 123 |
+| 360d | 2025-09-18 | 4 | 144 | 27 | 80 | 67 | 191 |
+| last720d | 2024-09-23 | 6 | 280 | 42 | 170 | 111 | 346 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for haskell-language-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:13:32Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:28:09Z._
