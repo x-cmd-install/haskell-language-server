@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,955 · **Forks**: 455 · **Open issues**: 2,464 · **Contributors**: 319
+- **Stars**: 2,955 · **Forks**: 455 · **Open issues**: 2,465 · **Contributors**: 319
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 2110 · **Open PRs**: 70 · **Closed issues**: 1971 · **Open issues**: 493 · **Commits**: 4012
+- **Releases**: 45 · **Merged PRs**: 2110 · **Open PRs**: 70 · **Closed issues**: 1971 · **Open issues**: 494 · **Commits**: 4012
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 11 | 3 | 7 | 18 | 26 |
-| last60d | 2026-07-15 | 1 | 26 | 9 | 7 | 25 | 55 |
-| 90d | 2026-06-15 | 1 | 45 | 11 | 13 | 31 | 71 |
-| last180d | 2026-03-17 | 2 | 82 | 25 | 35 | 50 | 123 |
-| 360d | 2025-09-18 | 4 | 144 | 27 | 80 | 67 | 191 |
-| last720d | 2024-09-23 | 6 | 280 | 42 | 170 | 111 | 346 |
+| 30d | 2026-08-15 | 1 | 11 | 3 | 7 | 19 | 26 |
+| last60d | 2026-07-16 | 1 | 25 | 9 | 7 | 26 | 55 |
+| 90d | 2026-06-16 | 1 | 45 | 11 | 13 | 31 | 71 |
+| last180d | 2026-03-18 | 2 | 81 | 25 | 35 | 51 | 123 |
+| 360d | 2025-09-19 | 4 | 144 | 27 | 80 | 68 | 191 |
+| last720d | 2024-09-24 | 6 | 280 | 42 | 170 | 112 | 346 |
 
 ## Release assets
 
@@ -90,17 +90,6 @@ Lowest-scoring checks:
 | [SHA256SUMS](https://github.com/haskell/haskell-language-server/releases/download/2.15.0.0/SHA256SUMS) | 2.2 KiB | `other` |
 | [SHA256SUMS.sig](https://github.com/haskell/haskell-language-server/releases/download/2.15.0.0/SHA256SUMS.sig) | 597 B | `other` |
 
-## Distribution status
-
-Reported by **16** distros on [repology.org](https://repology.org/project/haskell-language-server). **2** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.15.0.0` | ✅ latest |
-| Nix unstable | `2.13.0.0` | ⚠️ outdated |
-| Void | `2.11.0.0` | ⚠️ outdated |
-| Alpine edge | `2.14.0.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for haskell-language-server lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `haskell-language-server` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -110,4 +99,4 @@ Install metadata for haskell-language-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:28:09Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:40:42Z._
