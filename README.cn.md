@@ -14,13 +14,13 @@ x install haskell-language-server
 
 ## 代码洞察
 
-合计: **77,778** 行代码（覆盖前 5 种语言、共 **1541** 个文件）。
+合计: **77,852** 行代码（覆盖前 5 种语言、共 **1543** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Haskell | 63,087 | 13,471 | 9,800 | 1442 |
+| Haskell | 63,160 | 13,475 | 9,806 | 1444 |
 | Json | 6,206 | 0 | 0 | 14 |
-| Cabal | 3,432 | 303 | 487 | 75 |
+| Cabal | 3,433 | 303 | 487 | 75 |
 | JavaScript | 1,781 | 52 | 0 | 4 |
 | TypeScript | 1,139 | 2,387 | 348 | 6 |
 
@@ -30,8 +30,8 @@ x install haskell-language-server
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -42,27 +42,27 @@ x install haskell-language-server
 ## 发布
 
 - **最新版本**: `2.15.0.0` (2026-09-03)
-- **最近提交**: 2026-09-12
+- **最近提交**: 2026-09-15
 - **Release 含资产**: 21 个
 
 ## 流行度
 
-- **Star**: 2,955 · **Fork**: 455 · **开放 issue**: 2,466 · **贡献者**: 319
+- **Star**: 2,958 · **Fork**: 455 · **开放 issue**: 2,468 · **贡献者**: 319
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 2110 · **开放 PR**: 70 · **已关闭 issue**: 1971 · **开放 issue**: 495 · **提交数**: 4012
+- **发布数**: 45 · **已合并 PR**: 2111 · **开放 PR**: 70 · **已关闭 issue**: 1973 · **开放 issue**: 495 · **提交数**: 4013
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 11 | 2 | 7 | 20 | 26 |
-| last60d | 2026-07-17 | 1 | 24 | 9 | 7 | 27 | 55 |
-| 90d | 2026-06-17 | 1 | 44 | 11 | 13 | 32 | 71 |
-| last180d | 2026-03-19 | 2 | 81 | 24 | 35 | 52 | 123 |
-| 360d | 2025-09-20 | 4 | 144 | 27 | 80 | 69 | 191 |
-| last720d | 2024-09-25 | 6 | 280 | 42 | 170 | 113 | 346 |
+| 30d | 2026-08-17 | 1 | 12 | 2 | 7 | 21 | 0 |
+| last60d | 2026-07-18 | 1 | 24 | 9 | 8 | 28 | 0 |
+| 90d | 2026-06-18 | 1 | 43 | 11 | 14 | 33 | 0 |
+| last180d | 2026-03-20 | 2 | 82 | 24 | 36 | 52 | 0 |
+| 360d | 2025-09-21 | 4 | 145 | 27 | 81 | 70 | 0 |
+| last720d | 2024-09-26 | 6 | 281 | 42 | 171 | 114 | 347 |
 
 ## Release 资产
 
@@ -99,4 +99,4 @@ haskell-language-server 的安装元数据由 [x-cmd/install](https://github.com
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T05:45:12Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T06:00:11Z._
