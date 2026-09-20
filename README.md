@@ -4,7 +4,7 @@
 
 Official Haskell IDE support via the language server protocol (LSP)
 
-![haskell-language-server](https://repo.x-cmd.io/haskell-language-server.svg)
+[![x-cmd/install — haskell-language-server Code Quality Monitoring Repo Card](https://repo.x-cmd.io/haskell-language-server.svg)](https://x-cmd.com/install/haskell-language-server)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,957 · **Forks**: 456 · **Open issues**: 2,468 · **Contributors**: 320
+- **Stars**: 2,957 · **Forks**: 455 · **Open issues**: 2,469 · **Contributors**: 320
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 2115 · **Open PRs**: 71 · **Closed issues**: 1975 · **Open issues**: 493 · **Commits**: 4017
+- **Releases**: 45 · **Merged PRs**: 2115 · **Open PRs**: 72 · **Closed issues**: 1975 · **Open issues**: 494 · **Commits**: 4017
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 14 | 3 | 9 | 19 | 31 |
-| last60d | 2026-07-20 | 1 | 26 | 9 | 10 | 26 | 60 |
-| 90d | 2026-06-20 | 1 | 44 | 12 | 16 | 31 | 76 |
-| last180d | 2026-03-22 | 2 | 86 | 25 | 37 | 50 | 128 |
-| 360d | 2025-09-23 | 4 | 147 | 28 | 82 | 68 | 196 |
-| last720d | 2024-09-28 | 6 | 285 | 43 | 172 | 112 | 351 |
+| 30d | 2026-08-21 | 1 | 13 | 4 | 8 | 20 | 16 |
+| last60d | 2026-07-22 | 1 | 26 | 10 | 10 | 25 | 59 |
+| 90d | 2026-06-22 | 1 | 44 | 12 | 16 | 31 | 76 |
+| last180d | 2026-03-24 | 2 | 85 | 26 | 37 | 51 | 127 |
+| 360d | 2025-09-25 | 4 | 147 | 29 | 82 | 69 | 195 |
+| last720d | 2024-09-30 | 6 | 284 | 44 | 172 | 113 | 349 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for haskell-language-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:38:44Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:34:29Z._

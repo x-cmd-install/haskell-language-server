@@ -4,7 +4,7 @@
 
 Official Haskell IDE support via the language server protocol (LSP)
 
-![haskell-language-server](https://repo.x-cmd.io/haskell-language-server.svg?lang=zh)
+[![x-cmd/install — haskell-language-server Code Quality Monitoring Repo Card](https://repo.x-cmd.io/haskell-language-server.svg?lang=zh)](https://x-cmd.com/install/haskell-language-server)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install haskell-language-server
 
 ## 流行度
 
-- **Star**: 2,957 · **Fork**: 456 · **开放 issue**: 2,468 · **贡献者**: 320
+- **Star**: 2,957 · **Fork**: 455 · **开放 issue**: 2,469 · **贡献者**: 320
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 2115 · **开放 PR**: 71 · **已关闭 issue**: 1975 · **开放 issue**: 493 · **提交数**: 4017
+- **发布数**: 45 · **已合并 PR**: 2115 · **开放 PR**: 72 · **已关闭 issue**: 1975 · **开放 issue**: 494 · **提交数**: 4017
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 14 | 3 | 9 | 19 | 31 |
-| last60d | 2026-07-20 | 1 | 26 | 9 | 10 | 26 | 60 |
-| 90d | 2026-06-20 | 1 | 44 | 12 | 16 | 31 | 76 |
-| last180d | 2026-03-22 | 2 | 86 | 25 | 37 | 50 | 128 |
-| 360d | 2025-09-23 | 4 | 147 | 28 | 82 | 68 | 196 |
-| last720d | 2024-09-28 | 6 | 285 | 43 | 172 | 112 | 351 |
+| 30d | 2026-08-21 | 1 | 13 | 4 | 8 | 20 | 16 |
+| last60d | 2026-07-22 | 1 | 26 | 10 | 10 | 25 | 59 |
+| 90d | 2026-06-22 | 1 | 44 | 12 | 16 | 31 | 76 |
+| last180d | 2026-03-24 | 2 | 85 | 26 | 37 | 51 | 127 |
+| 360d | 2025-09-25 | 4 | 147 | 29 | 82 | 69 | 195 |
+| last720d | 2024-09-30 | 6 | 284 | 44 | 172 | 113 | 349 |
 
 ## Release 资产
 
@@ -99,4 +99,4 @@ haskell-language-server 的安装元数据由 [x-cmd/install](https://github.com
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:38:46Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:34:30Z._
