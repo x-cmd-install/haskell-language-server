@@ -4,7 +4,7 @@
 
 Official Haskell IDE support via the language server protocol (LSP)
 
-[![x-cmd/install — haskell-language-server Code Quality Monitoring Repo Card](https://repo.x-cmd.io/haskell-language-server.svg)](https://x-cmd.com/install/haskell-language-server)
+[![x-cmd/install — haskell-language-server Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/haskell-language-server.svg)](https://x-cmd.com/install/haskell-language-server)
 
 ## Install
 
@@ -30,9 +30,9 @@ Overall score: **6.1 / 10**
 
 Lowest-scoring checks:
 
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,958 · **Forks**: 455 · **Open issues**: 2,469 · **Contributors**: 320
+- **Stars**: 2,959 · **Forks**: 455 · **Open issues**: 2,469 · **Contributors**: 320
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 13 | 3 | 9 | 19 | 18 |
-| last60d | 2026-07-24 | 1 | 27 | 6 | 11 | 24 | 61 |
-| 90d | 2026-06-24 | 1 | 46 | 10 | 17 | 30 | 78 |
-| last180d | 2026-03-26 | 2 | 87 | 23 | 38 | 49 | 129 |
-| 360d | 2025-09-27 | 4 | 149 | 27 | 82 | 68 | 197 |
-| last720d | 2024-10-02 | 6 | 286 | 42 | 173 | 112 | 351 |
+| 30d | 2026-08-24 | 1 | 13 | 3 | 9 | 19 | 18 |
+| last60d | 2026-07-25 | 1 | 26 | 6 | 11 | 24 | 61 |
+| 90d | 2026-06-25 | 1 | 46 | 10 | 17 | 30 | 78 |
+| last180d | 2026-03-27 | 2 | 87 | 23 | 38 | 47 | 129 |
+| 360d | 2025-09-28 | 4 | 149 | 27 | 82 | 68 | 197 |
+| last720d | 2024-10-03 | 6 | 286 | 42 | 173 | 112 | 350 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for haskell-language-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:38:18Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:55:49Z._
