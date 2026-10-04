@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 10 | 3 | 6 | 18 | 15 |
-| last60d | 2026-08-04 | 1 | 25 | 6 | 12 | 26 | 43 |
-| 90d | 2026-07-05 | 1 | 41 | 8 | 14 | 30 | 74 |
-| last180d | 2026-04-06 | 2 | 89 | 22 | 38 | 48 | 131 |
-| 360d | 2025-10-08 | 3 | 150 | 26 | 83 | 69 | 199 |
-| last720d | 2024-10-13 | 6 | 279 | 40 | 173 | 112 | 347 |
+| 30d | 2026-09-04 | 0 | 10 | 3 | 3 | 12 | 11 |
+| last60d | 2026-08-05 | 1 | 24 | 6 | 12 | 25 | 37 |
+| 90d | 2026-07-06 | 1 | 41 | 8 | 14 | 30 | 72 |
+| last180d | 2026-04-07 | 2 | 89 | 22 | 37 | 48 | 128 |
+| 360d | 2025-10-09 | 3 | 150 | 26 | 83 | 69 | 198 |
+| last720d | 2024-10-14 | 6 | 279 | 39 | 173 | 112 | 347 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for haskell-language-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:59:24Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:26:49Z._
