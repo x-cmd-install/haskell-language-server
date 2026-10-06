@@ -14,11 +14,11 @@ x install haskell-language-server
 
 ## Code insight
 
-Total: **78,055** lines of code across **1550** files in the top 5 languages.
+Total: **78,114** lines of code across **1554** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Haskell | 63,362 | 13,545 | 9,834 | 1451 |
+| Haskell | 63,421 | 13,563 | 9,850 | 1455 |
 | Json | 6,206 | 0 | 0 | 14 |
 | Cabal | 3,434 | 303 | 487 | 75 |
 | JavaScript | 1,781 | 52 | 0 | 4 |
@@ -31,8 +31,8 @@ Overall score: **6.1 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.15.0.0` (2026-09-03)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-05
 - **Assets in release**: 21
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 2120 · **Open PRs**: 70 · **Closed issues**: 1978 · **Open issues**: 497 · **Commits**: 4022
+- **Releases**: 45 · **Merged PRs**: 2121 · **Open PRs**: 70 · **Closed issues**: 1979 · **Open issues**: 496 · **Commits**: 4023
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 10 | 4 | 3 | 13 | 11 |
-| last60d | 2026-08-06 | 1 | 23 | 7 | 12 | 27 | 37 |
-| 90d | 2026-07-07 | 1 | 41 | 9 | 13 | 32 | 72 |
-| last180d | 2026-04-08 | 2 | 89 | 23 | 36 | 50 | 128 |
-| 360d | 2025-10-10 | 3 | 149 | 27 | 83 | 71 | 198 |
-| last720d | 2024-10-15 | 6 | 279 | 40 | 172 | 114 | 346 |
+| 30d | 2026-09-06 | 0 | 11 | 4 | 4 | 12 | 12 |
+| last60d | 2026-08-07 | 1 | 24 | 7 | 13 | 25 | 38 |
+| 90d | 2026-07-08 | 1 | 41 | 9 | 14 | 30 | 73 |
+| last180d | 2026-04-09 | 2 | 90 | 23 | 37 | 49 | 129 |
+| 360d | 2025-10-11 | 3 | 150 | 27 | 84 | 70 | 199 |
+| last720d | 2024-10-16 | 6 | 280 | 40 | 173 | 113 | 347 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for haskell-language-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:26:46Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:56:58Z._
