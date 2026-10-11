@@ -14,11 +14,11 @@ x install haskell-language-server
 
 ## Code insight
 
-Total: **78,114** lines of code across **1554** files in the top 5 languages.
+Total: **78,106** lines of code across **1554** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Haskell | 63,421 | 13,563 | 9,850 | 1455 |
+| Haskell | 63,413 | 13,547 | 9,847 | 1455 |
 | Json | 6,206 | 0 | 0 | 14 |
 | Cabal | 3,434 | 303 | 487 | 75 |
 | JavaScript | 1,781 | 52 | 0 | 4 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.15.0.0` (2026-09-03)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-10
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 2,961 · **Forks**: 463 · **Open issues**: 2,479 · **Contributors**: 321
+- **Stars**: 2,961 · **Forks**: 467 · **Open issues**: 2,482 · **Contributors**: 322
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 2123 · **Open PRs**: 74 · **Closed issues**: 1981 · **Open issues**: 498 · **Commits**: 4025
+- **Releases**: 45 · **Merged PRs**: 2126 · **Open PRs**: 77 · **Closed issues**: 1985 · **Open issues**: 497 · **Commits**: 4028
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 10 | 7 | 2 | 13 | 14 |
-| last60d | 2026-08-11 | 1 | 25 | 9 | 15 | 27 | 40 |
-| 90d | 2026-07-12 | 1 | 41 | 13 | 16 | 32 | 75 |
-| last180d | 2026-04-13 | 2 | 89 | 27 | 38 | 51 | 131 |
-| 360d | 2025-10-15 | 3 | 150 | 31 | 86 | 72 | 201 |
-| last720d | 2024-10-20 | 6 | 281 | 44 | 175 | 115 | 349 |
+| 30d | 2026-09-11 | 0 | 13 | 10 | 3 | 15 | 10 |
+| last60d | 2026-08-12 | 1 | 28 | 12 | 15 | 29 | 42 |
+| 90d | 2026-07-13 | 1 | 43 | 16 | 16 | 34 | 76 |
+| last180d | 2026-04-14 | 2 | 92 | 30 | 39 | 53 | 130 |
+| 360d | 2025-10-16 | 3 | 153 | 34 | 88 | 72 | 200 |
+| last720d | 2024-10-21 | 6 | 282 | 47 | 175 | 116 | 351 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for haskell-language-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:18:52Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:22:46Z._
