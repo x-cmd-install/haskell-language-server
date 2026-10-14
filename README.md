@@ -31,8 +31,8 @@ Overall score: **6.1 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,963 · **Forks**: 469 · **Open issues**: 2,487 · **Contributors**: 326
+- **Stars**: 2,964 · **Forks**: 469 · **Open issues**: 2,489 · **Contributors**: 326
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 2133 · **Open PRs**: 77 · **Closed issues**: 1986 · **Open issues**: 501 · **Commits**: 4035
+- **Releases**: 45 · **Merged PRs**: 2133 · **Open PRs**: 79 · **Closed issues**: 1986 · **Open issues**: 503 · **Commits**: 4035
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 19 | 11 | 3 | 19 | 17 |
-| last60d | 2026-08-14 | 1 | 31 | 13 | 15 | 33 | 49 |
-| 90d | 2026-07-15 | 1 | 48 | 17 | 16 | 39 | 83 |
-| last180d | 2026-04-16 | 2 | 98 | 30 | 39 | 58 | 137 |
-| 360d | 2025-10-18 | 3 | 160 | 34 | 88 | 77 | 207 |
-| last720d | 2024-10-23 | 6 | 289 | 47 | 175 | 121 | 356 |
+| 30d | 2026-09-14 | 0 | 19 | 13 | 3 | 20 | 17 |
+| last60d | 2026-08-15 | 1 | 31 | 15 | 15 | 35 | 49 |
+| 90d | 2026-07-16 | 1 | 47 | 19 | 16 | 41 | 83 |
+| last180d | 2026-04-17 | 2 | 98 | 32 | 39 | 60 | 137 |
+| 360d | 2025-10-19 | 3 | 160 | 36 | 88 | 79 | 207 |
+| last720d | 2024-10-24 | 6 | 289 | 49 | 174 | 123 | 356 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for haskell-language-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:28:08Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:31:12Z._
