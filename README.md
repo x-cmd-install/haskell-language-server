@@ -31,8 +31,8 @@ Overall score: **6.1 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.15.0.0` (2026-09-03)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-26
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 2,963 · **Forks**: 469 · **Open issues**: 2,494 · **Contributors**: 326
+- **Stars**: 2,963 · **Forks**: 469 · **Open issues**: 2,495 · **Contributors**: 326
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 2139 · **Open PRs**: 82 · **Closed issues**: 1991 · **Open issues**: 503 · **Commits**: 4041
+- **Releases**: 45 · **Merged PRs**: 2141 · **Open PRs**: 80 · **Closed issues**: 1991 · **Open issues**: 504 · **Commits**: 4043
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 17 | 16 | 5 | 19 | 19 |
-| last60d | 2026-08-27 | 1 | 29 | 17 | 15 | 32 | 35 |
-| 90d | 2026-07-28 | 1 | 46 | 20 | 21 | 39 | 74 |
-| last180d | 2026-04-29 | 1 | 98 | 34 | 40 | 55 | 137 |
-| 360d | 2025-10-31 | 3 | 163 | 39 | 89 | 79 | 209 |
-| last720d | 2024-11-05 | 6 | 293 | 51 | 178 | 122 | 359 |
+| 30d | 2026-09-27 | 0 | 19 | 14 | 5 | 20 | 21 |
+| last60d | 2026-08-28 | 1 | 31 | 15 | 15 | 33 | 37 |
+| 90d | 2026-07-29 | 1 | 48 | 18 | 21 | 40 | 76 |
+| last180d | 2026-04-30 | 1 | 100 | 32 | 40 | 56 | 139 |
+| 360d | 2025-11-01 | 3 | 165 | 37 | 89 | 79 | 211 |
+| last720d | 2024-11-06 | 6 | 295 | 49 | 178 | 123 | 361 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for haskell-language-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:21:04Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:45:31Z._
