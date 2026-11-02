@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 2142 · **Open PRs**: 80 · **Closed issues**: 1992 · **Open issues**: 503 · **Commits**: 4044
+- **Releases**: 45 · **Merged PRs**: 2142 · **Open PRs**: 81 · **Closed issues**: 1992 · **Open issues**: 503 · **Commits**: 4044
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 19 | 14 | 6 | 16 | 19 |
-| last60d | 2026-09-02 | 1 | 32 | 15 | 16 | 31 | 35 |
-| 90d | 2026-08-03 | 1 | 46 | 18 | 22 | 38 | 59 |
-| last180d | 2026-05-05 | 1 | 99 | 31 | 40 | 53 | 136 |
-| 360d | 2025-11-06 | 3 | 166 | 37 | 86 | 77 | 211 |
-| last720d | 2024-11-11 | 6 | 293 | 49 | 179 | 121 | 362 |
+| 30d | 2026-10-03 | 0 | 19 | 15 | 6 | 16 | 19 |
+| last60d | 2026-09-03 | 1 | 31 | 16 | 15 | 31 | 35 |
+| 90d | 2026-08-04 | 1 | 46 | 19 | 22 | 38 | 59 |
+| last180d | 2026-05-06 | 1 | 97 | 30 | 40 | 53 | 136 |
+| 360d | 2025-11-07 | 3 | 166 | 38 | 86 | 77 | 211 |
+| last720d | 2024-11-12 | 6 | 293 | 50 | 179 | 121 | 362 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for haskell-language-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:39:37Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:44:45Z._
