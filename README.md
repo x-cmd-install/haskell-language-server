@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,968 · **Forks**: 472 · **Open issues**: 2,503 · **Contributors**: 326
+- **Stars**: 2,968 · **Forks**: 473 · **Open issues**: 2,504 · **Contributors**: 326
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 2147 · **Open PRs**: 79 · **Closed issues**: 2001 · **Open issues**: 502 · **Commits**: 4049
+- **Releases**: 45 · **Merged PRs**: 2147 · **Open PRs**: 80 · **Closed issues**: 2001 · **Open issues**: 503 · **Commits**: 4049
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 11 | 3 | 8 | 6 | 11 |
-| last60d | 2026-09-14 | 0 | 32 | 15 | 14 | 23 | 35 |
-| 90d | 2026-08-15 | 1 | 45 | 16 | 29 | 35 | 63 |
-| last180d | 2026-05-17 | 1 | 99 | 28 | 44 | 53 | 139 |
-| 360d | 2025-11-18 | 3 | 171 | 36 | 91 | 76 | 216 |
-| last720d | 2024-11-23 | 6 | 296 | 47 | 185 | 121 | 367 |
+| 30d | 2026-10-15 | 0 | 11 | 4 | 8 | 7 | 11 |
+| last60d | 2026-09-15 | 0 | 31 | 16 | 13 | 23 | 35 |
+| 90d | 2026-08-16 | 1 | 45 | 16 | 29 | 36 | 63 |
+| last180d | 2026-05-18 | 1 | 99 | 29 | 44 | 54 | 139 |
+| 360d | 2025-11-19 | 3 | 171 | 37 | 91 | 77 | 216 |
+| last720d | 2024-11-24 | 6 | 296 | 48 | 185 | 122 | 367 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for haskell-language-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:25:46Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:18:33Z._
