@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.15.0.0` (2026-09-03)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-23
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 2,968 · **Forks**: 473 · **Open issues**: 2,508 · **Contributors**: 328
+- **Stars**: 2,967 · **Forks**: 473 · **Open issues**: 2,508 · **Contributors**: 328
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 2155 · **Open PRs**: 76 · **Closed issues**: 2008 · **Open issues**: 500 · **Commits**: 4057
+- **Releases**: 45 · **Merged PRs**: 2156 · **Open PRs**: 77 · **Closed issues**: 2008 · **Open issues**: 500 · **Commits**: 4058
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 12 | 4 | 10 | 6 | 16 |
-| last60d | 2026-09-23 | 0 | 30 | 16 | 16 | 23 | 37 |
-| 90d | 2026-08-24 | 1 | 46 | 16 | 31 | 36 | 71 |
-| last180d | 2026-05-26 | 1 | 106 | 26 | 47 | 51 | 146 |
-| 360d | 2025-11-27 | 3 | 176 | 34 | 93 | 74 | 223 |
-| last720d | 2024-12-02 | 6 | 303 | 45 | 189 | 121 | 372 |
+| 30d | 2026-10-24 | 0 | 11 | 5 | 10 | 5 | 13 |
+| last60d | 2026-09-24 | 0 | 31 | 16 | 16 | 22 | 37 |
+| 90d | 2026-08-25 | 1 | 47 | 17 | 31 | 36 | 54 |
+| last180d | 2026-05-27 | 1 | 107 | 26 | 47 | 51 | 146 |
+| 360d | 2025-11-28 | 3 | 177 | 35 | 93 | 74 | 222 |
+| last720d | 2024-12-03 | 6 | 303 | 45 | 189 | 121 | 373 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for haskell-language-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:34:00Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:01:08Z._
