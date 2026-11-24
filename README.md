@@ -14,11 +14,11 @@ x install haskell-language-server
 
 ## Code insight
 
-Total: **79,520** lines of code across **1590** files in the top 5 languages.
+Total: **79,559** lines of code across **1593** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Haskell | 64,587 | 13,655 | 9,977 | 1484 |
+| Haskell | 64,626 | 13,655 | 9,986 | 1487 |
 | Json | 6,311 | 0 | 0 | 14 |
 | Cabal | 3,552 | 307 | 500 | 82 |
 | JavaScript | 1,781 | 52 | 0 | 4 |
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 2156 · **Open PRs**: 77 · **Closed issues**: 2008 · **Open issues**: 500 · **Commits**: 4058
+- **Releases**: 45 · **Merged PRs**: 2157 · **Open PRs**: 76 · **Closed issues**: 2009 · **Open issues**: 499 · **Commits**: 4059
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 11 | 5 | 10 | 5 | 13 |
-| last60d | 2026-09-24 | 0 | 31 | 16 | 16 | 22 | 37 |
-| 90d | 2026-08-25 | 1 | 47 | 17 | 31 | 36 | 54 |
-| last180d | 2026-05-27 | 1 | 107 | 26 | 47 | 51 | 146 |
-| 360d | 2025-11-28 | 3 | 177 | 35 | 93 | 74 | 222 |
-| last720d | 2024-12-03 | 6 | 303 | 45 | 189 | 121 | 373 |
+| 30d | 2026-10-25 | 0 | 11 | 3 | 9 | 5 | 14 |
+| last60d | 2026-09-25 | 0 | 32 | 15 | 17 | 21 | 38 |
+| 90d | 2026-08-26 | 1 | 45 | 16 | 30 | 34 | 55 |
+| last180d | 2026-05-28 | 1 | 108 | 25 | 48 | 50 | 147 |
+| 360d | 2025-11-29 | 3 | 178 | 34 | 94 | 73 | 223 |
+| last720d | 2024-12-04 | 6 | 304 | 44 | 190 | 120 | 374 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for haskell-language-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:01:08Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:17:18Z._
