@@ -14,13 +14,13 @@ x install haskell-language-server
 
 ## 代码洞察
 
-合计: **79,656** 行代码（覆盖前 5 种语言、共 **1593** 个文件）。
+合计: **81,608** 行代码（覆盖前 5 种语言、共 **1706** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Haskell | 64,723 | 13,662 | 9,986 | 1487 |
-| Json | 6,311 | 0 | 0 | 14 |
-| Cabal | 3,552 | 307 | 500 | 82 |
+| Haskell | 66,570 | 13,922 | 10,367 | 1600 |
+| Json | 6,347 | 0 | 0 | 14 |
+| Cabal | 3,613 | 310 | 506 | 82 |
 | JavaScript | 1,781 | 52 | 0 | 4 |
 | TypeScript | 1,139 | 2,387 | 348 | 6 |
 
@@ -42,27 +42,27 @@ x install haskell-language-server
 ## 发布
 
 - **最新版本**: `2.15.0.0` (2026-09-03)
-- **最近提交**: 2026-11-25
+- **最近提交**: 2026-11-27
 - **Release 含资产**: 21 个
 
 ## 流行度
 
-- **Star**: 2,968 · **Fork**: 474 · **开放 issue**: 2,508 · **贡献者**: 328
+- **Star**: 2,969 · **Fork**: 474 · **开放 issue**: 2,508 · **贡献者**: 329
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 2160 · **开放 PR**: 73 · **已关闭 issue**: 2010 · **开放 issue**: 498 · **提交数**: 4062
+- **发布数**: 45 · **已合并 PR**: 2162 · **开放 PR**: 72 · **已关闭 issue**: 2017 · **开放 issue**: 491 · **提交数**: 4064
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 13 | 1 | 8 | 5 | 17 |
-| last60d | 2026-09-27 | 0 | 35 | 12 | 17 | 21 | 41 |
-| 90d | 2026-08-28 | 1 | 47 | 13 | 27 | 34 | 58 |
-| last180d | 2026-05-30 | 1 | 111 | 22 | 47 | 50 | 150 |
-| 360d | 2025-12-01 | 3 | 181 | 31 | 95 | 71 | 226 |
-| last720d | 2024-12-06 | 6 | 307 | 41 | 191 | 118 | 376 |
+| 30d | 2026-10-28 | 0 | 14 | 1 | 8 | 5 | 19 |
+| last60d | 2026-09-28 | 0 | 37 | 11 | 17 | 21 | 43 |
+| 90d | 2026-08-29 | 1 | 49 | 12 | 28 | 33 | 60 |
+| last180d | 2026-05-31 | 1 | 113 | 21 | 48 | 49 | 152 |
+| 360d | 2025-12-02 | 3 | 183 | 30 | 96 | 69 | 228 |
+| last720d | 2024-12-07 | 6 | 309 | 40 | 192 | 117 | 378 |
 
 ## Release 资产
 
@@ -90,17 +90,6 @@ x install haskell-language-server
 | [SHA256SUMS](https://github.com/haskell/haskell-language-server/releases/download/2.15.0.0/SHA256SUMS) | 2.2 KiB | `other` |
 | [SHA256SUMS.sig](https://github.com/haskell/haskell-language-server/releases/download/2.15.0.0/SHA256SUMS.sig) | 597 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/haskell-language-server) 上共有 **16** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.15.0.0` | ✅ latest |
-| Nix unstable | `2.13.0.0` | ⚠️ outdated |
-| Void | `2.11.0.0` | ⚠️ outdated |
-| Alpine edge | `2.14.0.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 haskell-language-server 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `haskell-language-server` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -110,4 +99,4 @@ haskell-language-server 的安装元数据由 [x-cmd/install](https://github.com
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:55:02Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:46:24Z._

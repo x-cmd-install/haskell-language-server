@@ -14,13 +14,13 @@ x install haskell-language-server
 
 ## Code insight
 
-Total: **79,656** lines of code across **1593** files in the top 5 languages.
+Total: **81,608** lines of code across **1706** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Haskell | 64,723 | 13,662 | 9,986 | 1487 |
-| Json | 6,311 | 0 | 0 | 14 |
-| Cabal | 3,552 | 307 | 500 | 82 |
+| Haskell | 66,570 | 13,922 | 10,367 | 1600 |
+| Json | 6,347 | 0 | 0 | 14 |
+| Cabal | 3,613 | 310 | 506 | 82 |
 | JavaScript | 1,781 | 52 | 0 | 4 |
 | TypeScript | 1,139 | 2,387 | 348 | 6 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.15.0.0` (2026-09-03)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-27
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 2,968 · **Forks**: 474 · **Open issues**: 2,508 · **Contributors**: 328
+- **Stars**: 2,969 · **Forks**: 474 · **Open issues**: 2,508 · **Contributors**: 329
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 2160 · **Open PRs**: 73 · **Closed issues**: 2010 · **Open issues**: 498 · **Commits**: 4062
+- **Releases**: 45 · **Merged PRs**: 2162 · **Open PRs**: 72 · **Closed issues**: 2017 · **Open issues**: 491 · **Commits**: 4064
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 13 | 1 | 8 | 5 | 17 |
-| last60d | 2026-09-27 | 0 | 35 | 12 | 17 | 21 | 41 |
-| 90d | 2026-08-28 | 1 | 47 | 13 | 27 | 34 | 58 |
-| last180d | 2026-05-30 | 1 | 111 | 22 | 47 | 50 | 150 |
-| 360d | 2025-12-01 | 3 | 181 | 31 | 95 | 71 | 226 |
-| last720d | 2024-12-06 | 6 | 307 | 41 | 191 | 118 | 376 |
+| 30d | 2026-10-28 | 0 | 14 | 1 | 8 | 5 | 19 |
+| last60d | 2026-09-28 | 0 | 37 | 11 | 17 | 21 | 43 |
+| 90d | 2026-08-29 | 1 | 49 | 12 | 28 | 33 | 60 |
+| last180d | 2026-05-31 | 1 | 113 | 21 | 48 | 49 | 152 |
+| 360d | 2025-12-02 | 3 | 183 | 30 | 96 | 69 | 228 |
+| last720d | 2024-12-07 | 6 | 309 | 40 | 192 | 117 | 378 |
 
 ## Release assets
 
@@ -90,17 +90,6 @@ Lowest-scoring checks:
 | [SHA256SUMS](https://github.com/haskell/haskell-language-server/releases/download/2.15.0.0/SHA256SUMS) | 2.2 KiB | `other` |
 | [SHA256SUMS.sig](https://github.com/haskell/haskell-language-server/releases/download/2.15.0.0/SHA256SUMS.sig) | 597 B | `other` |
 
-## Distribution status
-
-Reported by **16** distros on [repology.org](https://repology.org/project/haskell-language-server). **2** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.15.0.0` | ✅ latest |
-| Nix unstable | `2.13.0.0` | ⚠️ outdated |
-| Void | `2.11.0.0` | ⚠️ outdated |
-| Alpine edge | `2.14.0.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for haskell-language-server lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `haskell-language-server` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -110,4 +99,4 @@ Install metadata for haskell-language-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:55:01Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:46:23Z._
